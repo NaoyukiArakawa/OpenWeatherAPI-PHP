@@ -1,0 +1,28 @@
+h1 {
+    font-family: "sans-serif";
+    color: #fff;
+}
+
+section {
+    background: linear-gradient(#563D7C, #fff);
+    color: #fff;
+    border-radius: 15px 50px 30px 5px;
+}
+
+button {
+    width: 65px;
+    height: 65px;
+    background: #563D7C;
+    color: #fff;
+
+}
+
+
+#temparture {
+    font-size: 4.5rem;
+}
+
+#description {
+    text-transform: capitalize;
+    font-size: 3.5rem;
+}
