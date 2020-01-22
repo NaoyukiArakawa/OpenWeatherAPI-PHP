@@ -9,7 +9,7 @@ Fetching data by using PHP
 
 ## What Done
 * Fetching WebAPI from Open weather API
-* PHP, Apache, MySQL setup on my training Linux machine //https://github.com/becodeorg/GNT-Yu-2.15
+* PHP, Apache, MySQL setup on my training Linux machine --> https://github.com/becodeorg/GNT-Yu-2.15
 * Laragon install on laptop
 
 ## Future ideas
