@@ -1,4 +1,4 @@
-# :zap: OpenWeatherAPI-PHP
+# :cyclone: OpenWeatherAPI-PHP
 Fetching data by using PHP
 
 
